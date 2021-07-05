@@ -38,6 +38,8 @@ public class Main {
         long a = System.currentTimeMillis();
 
         float [] a1 = new float[h];
+
+
         float [] a2 = new float[h];
 
 
